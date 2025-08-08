@@ -101,7 +101,7 @@ O **Disparador WhatsApp** é uma plataforma web robusta desenvolvida em Laravel 
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/emer5om/disparador.git
+git clone https://github.com/emer5om/disparador-de-mensagens-com-evolution-api.git
 cd disparador
 ```
 
@@ -241,8 +241,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Suporte
 
 Para suporte e dúvidas:
-- Abra uma [Issue](https://github.com/emer5om/disparador/issues)
-- Entre em contato via GitHub
+- Abra uma [Issue](https://github.com/emer5om/disparador-de-mensagens-com-evolution-api/issues)
+- Entre em contato via Linkedin (https://www.linkedin.com/in/emer5om/)
 
 ---
 
